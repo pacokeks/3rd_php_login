@@ -1,0 +1,32 @@
+<footer>
+<br>
+<br> 
+<br>
+<br> 
+<br>
+<br> 
+<br>
+<br>
+ <br>
+<br> 
+<br>
+<br> 
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+   
+<div style="text-align: center; margin-top: 20px;">
+     Teamplay©
+</div> 
+</footer>
+</body>
+</html>
